@@ -1,2 +1,2 @@
-# Develop-in-Swift
-Fundamentals and Data Collections Labs and Guided Projects
+# Develop-in-Swift-Fundamentals
+Fundamentals Labs and Guided Projects
